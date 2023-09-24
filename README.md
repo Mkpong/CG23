@@ -1,6 +1,7 @@
 # Computer Graphics Team Project 2023-2
 
 Team Name : 
+
 Project Name :
 
 Project Detail
@@ -18,9 +19,12 @@ Project Schedule
 
 2023.09.24 : 주제 선정 및 역할 분담
 
-이재영 : 배경 구현 설계 
+이재영 : 배경 구현 설계
+
 차승빈 : 주영운이 만들어준 간단한 지형으로 물리엔진 테스트
+
 이철민 : 캐릭터 디자인
+
 주영운 : 지형 아이디어 및 간단한 지형 설계
 
 -> 다음 미팅 10월 4일 수요일
