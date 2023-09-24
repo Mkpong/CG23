@@ -1,2 +1,1 @@
-재영 작업 진행 현황
-Jaeyoung Desktop Update
+재영
